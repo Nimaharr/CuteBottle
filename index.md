@@ -52,12 +52,13 @@
 
         <div class="col-12 pb-5" style="background: #EFB9B9;">
             <div class="col-5 text-left ml-3 mt-5">
+            <br>
             <h5> Best Seller</h5> 
             </div>
         <div class="row ml-auto p-5">
             <div class="col-4 text-center">
                     <div class="card" style="width: 18rem;">
-                        <img src="img/1829e648406fa19a0cd801b1c7df4cc6 1.png" class="card-img-top" alt="...">
+                        <img src="img/1829e648406fa19a0cd801b1c7df4cc6 1.png" class="card-img-top">
                         <div class="card-body">
                         <h5 class="card-title">SAKURA</h5>
                         <a class="nav-link" href="detail_page.html">IDR 130.000</a>
